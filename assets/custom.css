@@ -2,3 +2,5 @@
 .md h4::before, .md h5::before, .md h6::before {
     content: none;
 }
+
+p:empty { display: none; }
