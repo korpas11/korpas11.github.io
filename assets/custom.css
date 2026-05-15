@@ -1,0 +1,4 @@
+.md h1::before, .md h2::before, .md h3::before,
+.md h4::before, .md h5::before, .md h6::before {
+    content: none;
+}
