@@ -7,8 +7,5 @@ p:empty { display: none; }
 
 .md h2, .md h3, .md h4 {
     margin-top: 0;
-}
-
-body {
-    padding: 5px;
+    padding-top: 0;
 }
